@@ -1,0 +1,11 @@
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\bin\Debug\Robot.exe
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\bin\Debug\Robot.pdb
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\bin\Debug\Robot.xml
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\bin\Debug\Interop.AutoItX3Lib.dll
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\obj\Debug\Robot.FrmMain.resources
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\obj\Debug\Robot.FrmLogin.resources
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\obj\Debug\Robot.Resources.resources
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\obj\Debug\RoBot.vbproj.GenerateResource.Cache
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\obj\Debug\Robot.exe
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\obj\Debug\Robot.xml
+C:\Users\BILL\Desktop\RoBot\GetPixelTodoit\Robot\obj\Debug\Robot.pdb
